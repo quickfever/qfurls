@@ -2,14 +2,11 @@
 
 Create a URL shortner static site with all your links.
 
-
-
-
-
-
-
-
-
 # How to create
 
 https://app.netlify.com/start/deploy?repository=https://github.com/quickfever/qfurls
+
+Login to Netlify and finish the process. 
+Add a Domain name to Netlify site and an SSL will be installed instantly.
+
+To Edit URLs, Open Github repo and edit the _redirects file.
