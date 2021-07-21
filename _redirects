@@ -1,1 +1,4 @@
+#First addd slug then destination URL.
+#So the first line will redirect yourdomain/q to google.com
+
 /1     https://google.com
